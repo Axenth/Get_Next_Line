@@ -5,15 +5,15 @@
 /*                                                     +:+                    */
 /*   By: jlensing <jlensing@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/08 18:45:59 by jlensing       #+#    #+#                */
-/*   Updated: 2020/01/31 15:11:57 by jlensing      ########   odam.nl         */
+/*   Created: 2020/01/08 18:45:59 by jlensing      #+#    #+#                 */
+/*   Updated: 2020/06/11 20:22:55 by jlensing      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 32
+#  define BUFFER_SIZE 32 // Define a buffer size incase there was none given during compilation.
 # endif
 # include <stdlib.h>
 

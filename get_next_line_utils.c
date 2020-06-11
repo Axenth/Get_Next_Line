@@ -5,10 +5,15 @@
 /*                                                     +:+                    */
 /*   By: jlensing <jlensing@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/08 18:45:52 by jlensing       #+#    #+#                */
-/*   Updated: 2020/01/31 15:11:13 by jlensing      ########   odam.nl         */
+/*   Created: 2020/01/08 18:45:52 by jlensing      #+#    #+#                 */
+/*   Updated: 2020/06/11 20:13:53 by jlensing      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
+
+/*
+ * For more information regarding these functions see axeLib:
+ * https://github.com/Axenth/axeLib
+*/
 
 #include "get_next_line.h"
 
